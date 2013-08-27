@@ -10,7 +10,7 @@ Style sheets for [Pygments][1] based on Chris Kempson's [Base16][2] colour schem
 
 ## Contributing
 
-Pull requests can be made against [Base16 Builder][3]
+All pull requests should be made against [Base16 Builder][3], the tool used to compile these style sheets
 
 ## License
 
@@ -28,5 +28,5 @@ Original Base16 color scheme by [Chris Kempson][4]
 
 [1]: https://github.com/ccampbell/rainbow
 [2]: https://github.com/chriskempson/base16
-[3]: http://github.com/chriskempson/base16-builder
+[3]: https://github.com/chriskempson/base16-builder
 [4]: https://github.com/chriskempson/
